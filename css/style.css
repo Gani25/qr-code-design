@@ -1,0 +1,30 @@
+body {
+  background-color: #b4cde6;
+  text-align: center;
+}
+h4 {
+  padding: 0 30px;
+
+  font-family: "Montserrat", sans-serif;
+  color: #40514e;
+}
+p {
+  padding: 0 30px;
+
+  font-family: "Montserrat", sans-serif;
+  color: #b2b2b2;
+}
+img {
+  display: block;
+  width: 85%;
+  height: 85%;
+  margin: 0px auto;
+  border-radius: 15px;
+}
+.top-container {
+  width: 25%;
+  margin: 10% auto;
+  padding: 20px 0;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
